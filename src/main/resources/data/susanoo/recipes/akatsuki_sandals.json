@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "N N"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "susanoo:akatsuki_sandals"
+  }
+}
